@@ -85,5 +85,3 @@
 #     csv_data = csv.reader(file_object) # this will return an csv object.. 
 #     # print(csv_data)
 #     next(csv_data) # This will skip one line of content based on the cursor location.
-#     for row in csv_data:
-#         print(row[2])
